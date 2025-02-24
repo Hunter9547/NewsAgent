@@ -31,19 +31,20 @@ To build, run, or deploy DAL-News, you’ll need:
 
 ## Project Structure 🌳
 
+```plaintext
 DAL-News/
-├── static/              # Frontend assets
-│   ├── styles.css       # Custom styles
-│   ├── script.js        # Dynamic JavaScript
-│   └── news_logo.jpg    # Logo image
-├── templates/           # HTML templates
-│   ├── index.html       # Homepage
-│   └── article.html     # Article details
-├── app.py               # Core Flask app
-├── DataExtractor.py     # RSS scraping and indexing
-├── Translator.py        # Language translation
-├── category.py          # Category filtering
-├── search.py            # Search logic
-├── requirements.txt     # Python dependencies
-├── Dockerfile           # Optional Docker setup
-└── README.md            # You’re here!
+  ├── static/              # Frontend assets
+  │   ├── styles.css       # Custom styles
+  │   ├── script.js        # Dynamic JavaScript
+  │   └── news_logo.jpg    # Logo image
+  ├── templates/           # HTML templates
+  │   ├── index.html       # Homepage
+  │   └── article.html     # Article details
+  ├── app.py               # Core Flask app
+  ├── DataExtractor.py     # RSS scraping and indexing
+  ├── Translator.py        # Language translation
+  ├── category.py          # Category filtering
+  ├── search.py            # Search logic
+  ├── requirements.txt     # Python dependencies
+  ├── Dockerfile           # Optional Docker setup
+  └── README.md            # You’re here!
