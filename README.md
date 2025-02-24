@@ -12,7 +12,7 @@ Deployed on [Render](https://render.com/), DAL-News is ready to scale, but you c
 - **Article Details**: View summaries, images, and publication dates, with related articles powered by Elasticsearch’s `more_like_this`.
 - **Multilingual Support**: Translate articles into languages like Spanish or French on the fly.
 - **Real-Time Updates**: Fetch fresh RSS content with a simple API call.
-- **Analytics**: Track usage with [Google Analytics]([https://analytics.google.com/analytics/web/#/report-home/G-Y98XYMVPD8](https://analytics.google.com/analytics/web/?authuser=1#/p479341129/realtime/overview?params=_u..nav%3Dmaui%26_u..comparisons%3D%5B%7B%22savedComparisonId%22:%2210304435997%22,%22name%22:%22All%20Users%22,%22isEnabled%22:true,%22filters%22:%5B%5D,%22systemDefinedSavedComparisonType%22:8,%22isSystemDefined%22:true%7D%5D ). To track usage one must sign in Google analytics and send the request access email to the Admin.
+- **Analytics**: Track usage with [Google Analytics](https://analytics.google.com/analytics/web/?authuser=1#/p479341129/realtime/overview?params=_u..nav%3Dmaui%26_u..comparisons%3D%5B%7B%22savedComparisonId%22:%2210304435997%22,%22name%22:%22All%20Users%22,%22isEnabled%22:true,%22filters%22:%5B%5D,%22systemDefinedSavedComparisonType%22:8,%22isSystemDefined%22:true%7D%5D). To track usage one must sign in Google analytics and send the request access email to the Admin.
 
 ## Tech Stack 🛠️
 
